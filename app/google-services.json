@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159660036930",
+    "project_id": "carintel",
+    "storage_bucket": "carintel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159660036930:android:68b0859e264395b71faedb",
+        "android_client_info": {
+          "package_name": "com.example.carintel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159660036930-fq8esniapr1a922s7u1bb1pv34f3me6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carintel",
+            "certificate_hash": "379770ce15ad30d232d4252ce546f4cd4a8cac4e"
+          }
+        },
+        {
+          "client_id": "159660036930-n6srv691aj2rm40of96a0ec7vnocv66n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXdWjY9BeyPEbmTlBv43-Wm_JY-yZk8BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159660036930-n6srv691aj2rm40of96a0ec7vnocv66n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
